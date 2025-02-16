@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Aruje Haven Villa",
+    "price": "47,043",
+    "detail": "Malibu, California, on Pacific Breeze Drive, offering stunning oceanfront view.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ashok Private Villa",
+    "price": "66,353",
+    "detail": "Syangja ward  No.215, mayatari, Bazaar, Depok, Jawa Barat.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Mystic Peaks Aryal",
+    "price": "35,853",
+    "detail": " Aspen, Colorado, along Summit Crest Road, surrounded by breathtaking mountain scenery.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Golden Dune Lodge",
+    "price": "47,043",
+    "detail": "Dubai, UAE, on Al Sahra Desert Trail, providing a luxurious desert.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Emerald Lagoon Paradise",
+    "price": "66,353",
+    "detail": "Bora Bora, French Polynesia, on Lagoon Serenity Lane, with overwater bungalows.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Whispering Pines Retreat ",
+    "price": "35,853",
+    "detail": " Lake Tahoe, Nevada, on Evergreen Serenity Path, perfect for a peaceful forest escape.",
+    "image": "./r3.png"
+  }
+]
